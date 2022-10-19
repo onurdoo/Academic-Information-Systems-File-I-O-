@@ -1,0 +1,161 @@
+COMMAND:
+FIND BEST OF COURSE 451
+RESULT:
+3525766 Burcu Kahraman 76.50
+
+COMMAND:
+CALCULATE ALL FINALGRADES FOR STUDENT 2637338
+RESULT:
+413 71.00
+415 76.20
+421 42.25
+423 38.60
+451 47.25
+453 64.20
+
+COMMAND:
+LIST COURSES ALL
+RESULT:
+204 Software_Laboratory_II
+234 Computer_Organization
+301 Programming_Languages
+341 Systems_Programming
+371 Data_Management
+342 Operating_Systems
+382 Software_Engineering
+413 Fundamentals_of_Image_Processing
+415 Image_Processing_Laboratory
+421 Game_Technologies
+423 Game_Technologies_Laboratory
+451 Computer_Networks
+453 Computer_Networks_Laboratory
+463 Information_Security
+465 Information_Security_Laboratory
+467 Data_Intensive_Applications
+469 Data_Intensive_Applications_Laboratory
+471 Database_Management_Systems
+481 Software_Development
+412 Computer_Graphics
+414 Computer_Graphics_Laboratory
+416 Fundamentals_of_Computer_Vision
+418 Computer_Vision_Laboratory
+422 Mobile_Computing
+424 Mobile_Computing_Laboratory
+452 Data_Communications
+454 Data_Communications_Laboratory
+401 Automata_Theory_and_Formal_Languages
+402 Theory_of_Computation
+403 Combinatorics_and_Graph_Theory
+
+COMMAND:
+LIST COURSES FOR STUDENT 4945835
+RESULT:
+453 Computer_Networks_Laboratory
+423 Game_Technologies_Laboratory
+451 Computer_Networks
+415 Image_Processing_Laboratory
+413 Fundamentals_of_Image_Processing
+421 Game_Technologies
+
+COMMAND:
+CALCULATE AVERAGE GRADES FOR COURSE 204
+RESULT:
+39.29 52.86
+
+COMMAND:
+LIST GRADES FOR COURSE 402 AND STUDENT 5706954
+RESULT:
+65 75 71
+
+COMMAND:
+CALCULATE FINALGRADE FOR COURSE 403 AND STUDENT 2475057
+RESULT:
+83.25
+
+COMMAND:
+LIST STUDENTS FOR COURSE 204
+RESULT:
+8142762 Emel Say
+2936757 Salih Sakla
+6260994 Orhan Mert
+2233008 Akif Korkmaz
+8754171 Eylem Dede
+2140668 Olcay Sati
+4484136 Ezgi Berber
+
+COMMAND:
+LIST GRADES FOR STUDENT 1863648
+RESULT:
+401 63 34 69
+454 61 48
+452 40 40 40
+402 35 67 56
+403 75 82 71
+
+COMMAND:
+CALCULATE ALL FINALGRADES FOR STUDENT 4945835
+RESULT:
+453 3.80
+423 7.20
+451 7.75
+415 3.00
+413 34.75
+421 5.50
+
+COMMAND:
+FIND BEST OF COURSE 415
+RESULT:
+3525766 Burcu Kahraman 79.40
+
+COMMAND:
+LIST COURSES FOR STUDENT 6850003
+RESULT:
+418 Computer_Vision_Laboratory
+416 Fundamentals_of_Computer_Vision
+422 Mobile_Computing
+424 Mobile_Computing_Laboratory
+
+COMMAND:
+LIST COURSES ALL
+RESULT:
+204 Software_Laboratory_II
+234 Computer_Organization
+301 Programming_Languages
+341 Systems_Programming
+371 Data_Management
+342 Operating_Systems
+382 Software_Engineering
+413 Fundamentals_of_Image_Processing
+415 Image_Processing_Laboratory
+421 Game_Technologies
+423 Game_Technologies_Laboratory
+451 Computer_Networks
+453 Computer_Networks_Laboratory
+463 Information_Security
+465 Information_Security_Laboratory
+467 Data_Intensive_Applications
+469 Data_Intensive_Applications_Laboratory
+471 Database_Management_Systems
+481 Software_Development
+412 Computer_Graphics
+414 Computer_Graphics_Laboratory
+416 Fundamentals_of_Computer_Vision
+418 Computer_Vision_Laboratory
+422 Mobile_Computing
+424 Mobile_Computing_Laboratory
+452 Data_Communications
+454 Data_Communications_Laboratory
+401 Automata_Theory_and_Formal_Languages
+402 Theory_of_Computation
+403 Combinatorics_and_Graph_Theory
+
+COMMAND:
+CALCULATE FINALGRADE FOR COURSE 454 AND STUDENT 1344579
+RESULT:
+96.00
+
+COMMAND:
+FIND BEST OF COURSE 204
+RESULT:
+2936757 Salih Sakla 82.80
+
